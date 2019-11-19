@@ -6,6 +6,10 @@ This is some old code (from around 2012) that generates 2d terrain maps for game
 
 Simply open index.html! Satisfying, eh?
 
+Screenshot:
+
+![](screenshots/screen1.png)
+
 ## License
 
 Code (`main.js`): MIT license.
